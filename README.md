@@ -1,6 +1,6 @@
-###HOW ARE YOU
-##subtitle :D
-#:O subsub title
+### HOW ARE YOU
+## subtitle :D
+# :O subsub title
 
 **HOWS IT GOING** *WELL* **I** *HOPE*
 
