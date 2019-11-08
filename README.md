@@ -21,4 +21,20 @@ this is some nice code
 2. NUMBER
 3. **NUMBER**
 
+DONT YOU LOVE | TABLES?
+--------------|--------
+I DO|JK LOL
+FUCK YOU|DUMBASS
+
+- [x] make u sad
+- [x] :shit:
+- [ ] eat shit
+
+```python
+if y == 10 :
+	print("hello I AM EQUALS TO THE TENS")
+else :
+	break
+```
+
 [i luv googles](google.com)
